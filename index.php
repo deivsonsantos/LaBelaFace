@@ -187,34 +187,70 @@
 			<div class="row text-center">
 				<div class="col-sm-8 col-sm-offset-2">
 					<h2 class="title-one">Serviços	</h2>
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+					<!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p> -->
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-sm-12">
 					<div class="our-service">
 						<div class="services row">
-							<div class="col-sm-4">
+							<div class="col-sm-3">
 								<div class="single-service">
-									<i class="fa fa-th"></i>
-									<h2>Modern Design</h2>
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore.</p>
+									<i><img class="img-circle img-services" src="images/services/noiva.jpg"></i>
+									<h2>Dia da Noiva</h2>
+									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 								</div>
 							</div>
-							<div class="col-sm-4">
+							<div class="col-sm-3">
 								<div class="single-service">
-									<i class="fa fa-html5"></i>
-									<h2>Web Development</h2>
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy </p>
+									<i><img class="img-circle img-services" src="images/services/noiva.jpg"></i>
+									<h2>Tudo em Cabelos</h2>
+									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 								</div>
 							</div>
-							<div class="col-sm-4">
+							<div class="col-sm-3">
 								<div class="single-service">
-									<i class="fa fa-users"></i>
-									<h2>Online Marketing</h2>
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore.</p>
+									<i><img class="img-circle img-services" src="images/services/noiva.jpg"></i>
+									<h2>Coloração e Mechas</h2>
+									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 								</div>
-							</div></div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-service">
+									<i><img class="img-circle img-services" src="images/services/noiva.jpg"></i>
+									<h2>Penteados Fisionômico</h2>
+									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-service">
+									<i><img class="img-circle img-services" src="images/services/noiva.jpg"></i>
+									<h2>Maquiagens</h2>
+									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-service">
+									<i><img class="img-circle img-services" src="images/services/noiva.jpg"></i>
+									<h2>Manicura e Pedicura</h2>
+									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-service">
+									<i><img class="img-circle img-services" src="images/services/noiva.jpg"></i>
+									<h2>Spa Day</h2>
+									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-service">
+									<i><img class="img-circle img-services" src="images/services/noiva.jpg"></i>
+									<h2>Depilação</h2>
+									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+								</div>
+							</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -225,7 +261,7 @@
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-sm-8 col-sm-offset-2">
-						<h2 class="title-one">Meet The Team</h2>
+						<h2 class="title-one">Nossa Equipe</h2>
 						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.</p>
 					</div>
 				</div>
@@ -251,8 +287,8 @@
 							</div>
 							<div class="col-sm-6 col-md-3">
 								<div class="single-member">
-									<img src="images/our-team/member2.jpg" alt="team member" />
-									<h4>Alekjandra Jony</h4>
+									<img src="images/our-team/patricia.jpg" alt="team member" />
+									<h4>Patrícia Santos</h4>
 									<h5>Creative Designer</h5>
 									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod</p>
 									<div class="socials">
@@ -538,8 +574,8 @@
 							<div class="clients-wrapper">
 								<div class="row text-center">
 									<div class="col-sm-8 col-sm-offset-2">
-										<h2 class="title-one">Clients Say About Us</h2>
-										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p>
+										<h2 class="title-one">Depoimentos</h2>
+										<!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit</p> -->
 									</div>
 								</div>
 								<div id="clients-carousel" class="carousel slide" data-ride="carousel"> <!-- Indicators -->
@@ -759,8 +795,8 @@
 								<div class="row text-center clearfix">
 									<div class="col-sm-8 col-sm-offset-2">
 										<div class="contact-heading">
-											<h2 class="title-one">Contate-nos/h2>
-											<p>Oferecemos o melhor suporte para tirar suas dúvidasF</p>
+											<h2 class="title-one">Contate-nos</h2>
+											<p>Oferecemos o melhor suporte para tirar suas dúvidas.</p>
 										</div>
 									</div>
 								</div>
@@ -770,7 +806,7 @@
 									<div class="pattern"></div>
 									<div class="row text-center clearfix">
 										<div class="col-sm-6">
-											<div class="contact-address"><address><p><span>Devs</span>Cluster</p><strong>36 North Kafrul<br>Dhaka Cantonment Area<br> Dhaka-1206, Bangladesh</strong><br><small>( Lorem ipsum dolor sit amet, consectetuer adipiscing elit )</small></address>
+											<div class="contact-address"><address><p><span>Salão</span>LaBelaFace</p><strong>Av. Vereador Dário Marsíglia<br> Nº 16-A, Tabuleiro do Martins</strong><br><small>( Lorem ipsum dolor sit amet, consectetuer adipiscing elit )</small></address>
 												<div class="social-icons">
 													<a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a>
 													<a href="#"><i class="fa fa-google-plus"></i></a><a href="#"><i class="fa fa-dribbble"></i></a>
@@ -783,15 +819,15 @@
 												<div class="status alert alert-success" style="display: none"></div>
 												<form id="contact-form" class="contact" name="contact-form" method="post" action="send-mail.php">
 													<div class="form-group">
-														<input type="text" name="name" class="form-control name-field" required="required" placeholder="Your Name"></div>
+														<input type="text" name="name" class="form-control name-field" required="required" placeholder="Seu Nome"></div>
 														<div class="form-group">
-															<input type="email" name="email" class="form-control mail-field" required="required" placeholder="Your Email">
+															<input type="email" name="email" class="form-control mail-field" required="required" placeholder="Seu Email">
 														</div> 
 														<div class="form-group">
-															<textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Message"></textarea>
+															<textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Mensagem"></textarea>
 														</div> 
 														<div class="form-group">
-															<button type="submit" class="btn btn-primary">Send</button>
+															<button type="submit" class="btn btn-primary">Enviar</button>
 														</div>
 													</form> 
 												</div>
