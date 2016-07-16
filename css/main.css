@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #navigation .navbar-nav.navbar-right {
-	margin-top:28px
+	margin-top:44px
 }
 
 #navigation .navbar-nav.navbar-right li a {
@@ -1533,4 +1533,7 @@ h1, h2, h3, h4, h5, h6 {
 .img-services {
     width: 150px;
     margin-top: -13px;
+}
+.logo-marca {
+    width: 120px;
 }
